@@ -1,20 +1,6 @@
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=gsSantiiago&theme=dracula&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsSantiiago&theme=dracula&hide_border=false&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+![Santiagos's Github Stats](https://github-readme-stats.vercel.app/api?username=gsSantiiago&count_private=true&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsSantiiago&hide=TeX&layout=compact&theme=dracula)
+
+
