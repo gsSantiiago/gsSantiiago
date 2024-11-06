@@ -11,8 +11,8 @@
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 ### 📈 GitHub Analytics
-![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsSantiiago&count_private=true&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsSantiiago&hide=TeX&layout=compact&theme=dracula)
+![Santiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gsSantiiago&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsSantiiago&hide=TeX&layout=compact&theme=dark&langs_count=16)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsSantiiago&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
 
